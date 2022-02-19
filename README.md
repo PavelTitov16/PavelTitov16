@@ -8,7 +8,7 @@
 **Discord:** Pavluzont #5919
 
 ## **About me** ##
-![](https://www.codewars.com/users/PavelTitov16/badges/large)
+![](https://www.codewars.com/users/PavelTitov16/badges/large)\
 I'm disciplined and executive professional engineer with 7+ years of experience in the design of power supply and electrical equipment for mining chemical industry. My job is developing projects of mine electrical substations, supply and distribution networks of mines, salt dumps, surface and underground complexes with specifications in full graphic and text materials. 
 
 Front-end Developing is a new call for realizing my strong ability to adapt to new environment and challenges. I want to take part in new activities with my persistence in bringing the work started to the end with high ability of team playing - want to feel myself needed in using my English.
