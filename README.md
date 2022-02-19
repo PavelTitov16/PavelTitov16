@@ -15,13 +15,17 @@ Front-end Developing is a new call for realizing my strong ability to adapt to n
 
 I'm Father of Corgi 🦊
 
-## **Skills** ##
-* HTML
-* CSS
-* Figma
-* JavaScript ![image](https://user-images.githubusercontent.com/94010184/154801387-bf901917-7b9a-4da8-9e43-43ed357941ff.png)
-* Dev Tools 
-* Git
+## **Skills & Technologies** ##
+* ![image](https://user-images.githubusercontent.com/94010184/154802062-5f38848b-32eb-4b81-ab64-7ad7ccd7d34f.png)
+* ![image](https://user-images.githubusercontent.com/94010184/154802068-9df9fc73-309b-41f2-94b9-0a47ec32cfa4.png)
+* ![image](https://user-images.githubusercontent.com/94010184/154802355-63f5818a-fce6-44ae-accb-c3e5cdba30c9.png)
+* ![image](https://user-images.githubusercontent.com/94010184/154801387-bf901917-7b9a-4da8-9e43-43ed357941ff.png)
+* ![image](https://user-images.githubusercontent.com/94010184/154802127-7f19d01d-abc3-4b70-9839-1a847e62e38e.png)
+* ![image](https://user-images.githubusercontent.com/94010184/154802074-86da017e-acef-42c0-b13e-0e5a4dde5ac4.png)
+* ![image](https://user-images.githubusercontent.com/94010184/154802121-f2382e28-4328-4de5-98e8-5d28c5fc7e28.png)
+* ![image](https://user-images.githubusercontent.com/94010184/154802294-ab6ee964-039f-457f-851e-0022298449f2.png)
+
+
 
 ## **Education** ##
 * Belarusian National Technical University
@@ -41,7 +45,6 @@ I'm Father of Corgi 🦊
 * Russian - native
 * English - upper intermediate
    + Practiced English as volunteer interpreter at different sport competitions during student's time
-
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://user-images.githubusercontent.com/94010184/154801518-49ee9ecb-0ddb-4325-9069-d0afeaec691c.gif)
 
 
