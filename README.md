@@ -16,16 +16,15 @@ Front-end Developing is a new call for realizing my strong ability to adapt to n
 I'm Father of Corgi 🦊
 
 ## **Skills & Technologies** ##
-* ![image](https://user-images.githubusercontent.com/94010184/154802563-1fddec8e-38c2-4472-804f-1c390ab800d7.png)
-* ![image](https://user-images.githubusercontent.com/94010184/154802566-0b90a8c7-b810-4af2-b53f-d7062a13a5e4.png)
-* ![image](https://user-images.githubusercontent.com/94010184/154802576-7218f82d-b31b-4e31-a23a-c9bb96bed0c3.png)
-* ![image](https://user-images.githubusercontent.com/94010184/154801387-bf901917-7b9a-4da8-9e43-43ed357941ff.png)
-* ![image](https://user-images.githubusercontent.com/94010184/154802127-7f19d01d-abc3-4b70-9839-1a847e62e38e.png)
-* ![image](https://user-images.githubusercontent.com/94010184/154802074-86da017e-acef-42c0-b13e-0e5a4dde5ac4.png)
-* ![image](https://user-images.githubusercontent.com/94010184/154802121-f2382e28-4328-4de5-98e8-5d28c5fc7e28.png)
-* ![image](https://user-images.githubusercontent.com/94010184/154802294-ab6ee964-039f-457f-851e-0022298449f2.png)
-
-
+* HTML
+* CSS
+* JavaScript
+* Git
+* VS Code
+* Figma
+* Dev Tools
+* Netlify
+* React (in progress)
 
 ## **Education** ##
 * Belarusian National Technical University
