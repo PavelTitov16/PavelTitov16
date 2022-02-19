@@ -16,9 +16,9 @@ Front-end Developing is a new call for realizing my strong ability to adapt to n
 I'm Father of Corgi 🦊
 
 ## **Skills & Technologies** ##
-* ![image](https://user-images.githubusercontent.com/94010184/154802062-5f38848b-32eb-4b81-ab64-7ad7ccd7d34f.png)
-* ![image](https://user-images.githubusercontent.com/94010184/154802068-9df9fc73-309b-41f2-94b9-0a47ec32cfa4.png)
-* ![image](https://user-images.githubusercontent.com/94010184/154802355-63f5818a-fce6-44ae-accb-c3e5cdba30c9.png)
+* ![image](https://user-images.githubusercontent.com/94010184/154802563-1fddec8e-38c2-4472-804f-1c390ab800d7.png)
+* ![image](https://user-images.githubusercontent.com/94010184/154802566-0b90a8c7-b810-4af2-b53f-d7062a13a5e4.png)
+* ![image](https://user-images.githubusercontent.com/94010184/154802576-7218f82d-b31b-4e31-a23a-c9bb96bed0c3.png)
 * ![image](https://user-images.githubusercontent.com/94010184/154801387-bf901917-7b9a-4da8-9e43-43ed357941ff.png)
 * ![image](https://user-images.githubusercontent.com/94010184/154802127-7f19d01d-abc3-4b70-9839-1a847e62e38e.png)
 * ![image](https://user-images.githubusercontent.com/94010184/154802074-86da017e-acef-42c0-b13e-0e5a4dde5ac4.png)
