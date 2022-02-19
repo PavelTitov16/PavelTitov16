@@ -19,7 +19,7 @@ I'm Father of Corgi 🦊
 * HTML
 * CSS
 * Figma
-* JavaScript
+* JavaScript ![image](https://user-images.githubusercontent.com/94010184/154801387-bf901917-7b9a-4da8-9e43-43ed357941ff.png)
 * Dev Tools 
 * Git
 
@@ -41,6 +41,8 @@ I'm Father of Corgi 🦊
 * Russian - native
 * English - upper intermediate
    + Practiced English as volunteer interpreter at different sport competitions during student's time
+
+![image](https://user-images.githubusercontent.com/94010184/154801413-b25a913f-bfb9-43d8-a266-37fd9789426a.png)
 
 
 <!--
