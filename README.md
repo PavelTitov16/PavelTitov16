@@ -44,6 +44,7 @@ I'm Father of Corgi 🦊
 * Russian - native
 * English - upper intermediate
    + Practiced English as volunteer interpreter at different sport competitions during student's time
+ 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://user-images.githubusercontent.com/94010184/154801518-49ee9ecb-0ddb-4325-9069-d0afeaec691c.gif)
 
 
