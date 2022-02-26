@@ -33,7 +33,7 @@ I'm Father of Corgi 🦊
     + Interpreter
 * Courses
     + JavaScript for begginers by Stepik (![certificate](https://stepik.org/cert/1267113) )
-    + Web development for begginers: HTML&CSS by Stepik (![certificate](https://stepik.org/cert/1328852) )
+    + Web development for begginers: HTML&CSS by Stepik (![certificate](https://stepik.org/cert/1328852.png) )
     + HTML for begginers by Code Basics 
     + CSS for begginers by Code Basics
     + JavaScript for begginers by Code Basics
