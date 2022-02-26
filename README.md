@@ -26,6 +26,13 @@ I'm Father of Corgi 🦊
 * Netlify
 * React (in progress)
 
+## **Projects** ##
+[CV project](https://paveltitov16.github.io/rsschool-cv/)
+[Portfolio](https://paveltitov16.github.io/Photographer-s-portfolio/portfolio/)
+[Custom video](https://paveltitov16.github.io/Video_player/custom-video/)
+[Movie application](https://paveltitov16.github.io/Movie-application/movie-app/)
+[Game](https://paveltitov16.github.io/Corgi_Jump-game/game-app/)
+
 ## **Education** ##
 * Belarusian National Technical University
     + Power Engineering Supply
