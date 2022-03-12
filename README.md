@@ -41,11 +41,11 @@ I'm Father of Corgi 🦊
 * Courses
     + JavaScript for begginers by Stepik ([certificate](https://stepik.org/cert/1267113))
     + Web development for begginers: HTML&CSS by Stepik ([certificate](https://stepik.org/cert/1328852))
+    + RS Schools Course «JavaScript/Front-end Pre-school 2022» ([certificate](https://app.rs.school/certificate/36ja7mmf))
+    + RS Schools Course «JavaScript/Front-end 2022Q1» (in proggress)
     + HTML for begginers by Code Basics 
     + CSS for begginers by Code Basics
     + JavaScript for begginers by Code Basics
-    + RS Schools Course «JavaScript/Front-end Pre-school 2022» ([certificate](https://app.rs.school/certificate/36ja7mmf))
-    + RS Schools Course «JavaScript/Front-end 2022Q1» (in proggress)
 
 ## **Languages** ##
 * Russian - native
