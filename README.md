@@ -44,7 +44,7 @@ I'm Father of Corgi 🦊
     + HTML for begginers by Code Basics 
     + CSS for begginers by Code Basics
     + JavaScript for begginers by Code Basics
-    + RS Schools Course «JavaScript/Front-end. Stage 0» 
+    + RS Schools Course «JavaScript/Front-end Pre-school 2022» ([certificate](https://app.rs.school/certificate/36ja7mmf))
     + RS Schools Course «JavaScript/Front-end 2022Q1» (in proggress)
 
 ## **Languages** ##
