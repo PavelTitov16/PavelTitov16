@@ -41,7 +41,7 @@ I'm Father of Corgi 🦊
 * Courses
     + **Stepik** - JavaScript for begginers ([certificate](https://stepik.org/cert/1267113))
     + **Stepik** - Web development for begginers: HTML&CSS ([certificate](https://stepik.org/cert/1328852))
-    + **RS Schools** - «JavaScript/Front-end Pre-school 2022» ([certificate](https://app.rs.school/certificate/36ja7mmf))
+    + **RS Schools** - «JavaScript/Front-end Pre-school 2022» ([certificate](https://app.rs.school/certificate/3775uhay))
     + **RS Schools** - «JavaScript/Front-end 2022Q1» (in proggress)
     + **Code Basics** - HTML for begginers 
     + **Code Basics** - CSS for begginers
