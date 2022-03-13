@@ -32,6 +32,7 @@ I'm Father of Corgi 🦊
 [Custom video](https://paveltitov16.github.io/Video_player/custom-video/)\
 [Movie application](https://paveltitov16.github.io/Movie-application/movie-app/)\
 [Game **"Corgi Jump"**](https://paveltitov16.github.io/Corgi_Jump-game/game-app/)
+[Quiz application](https://paveltitov16.github.io/Quiz/)
 
 ## **Education** ##
 * Belarusian National Technical University
