@@ -20,21 +20,24 @@ I'm Father of Corgi 🦊
 * CSS
 * Sass/Scss (in progress)
 * JavaScript
+* React (in progress)
 * Git
 * VS Code
 * Figma
+* Photoshop
 * DevTools
 * Netlify
-* React (in progress)
+* Gulp (in progress)
+
 
 ## **Pet Projects** ##
 Project title|Project Demo|Project Description|
 -------------|------------|-------------------|
-RSS CV       |            |                   |
+RSS CV       |[CV project](https://paveltitov16.github.io/rsschool-cv/)\|My first CV project during the RSS courses JavaScript/Front-end 2022Q3. Stage 0|
 Portfolio    |            |                   |
 
 
-[CV project](https://paveltitov16.github.io/rsschool-cv/)\
+
 [Portfolio](https://paveltitov16.github.io/Photographer-s-portfolio/portfolio/)\
 [Custom video](https://paveltitov16.github.io/Video_player/custom-video/)\
 [Movie application](https://paveltitov16.github.io/Movie-application/movie-app/)\
