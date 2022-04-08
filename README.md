@@ -37,7 +37,7 @@ Project title|Project Demo|Project Description|
 Photographer's portfolio|[Portfolio](https://paveltitov16.github.io/Photographer-s-portfolio/portfolio/)|                   |
 Custom video|[Video player](https://paveltitov16.github.io/Video_player/custom-video/)|                   |
 Movie  search application|[Movie application](https://paveltitov16.github.io/Movie-application/movie-app/)|                   |
-Corgi    |[Game **"Corgi Jump"**](https://paveltitov16.github.io/Corgi_Jump-game/game-app/)|                   |
+Game **"Corgi Jump"**    |[**"Corgi Jump"**](https://paveltitov16.github.io/Corgi_Jump-game/game-app/)|                   |
 Quiz    |[Quiz application](https://paveltitov16.github.io/Quiz/)|                   |
 Portfolio    |            |                   |
 
