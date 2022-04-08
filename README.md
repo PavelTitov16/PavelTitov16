@@ -33,10 +33,10 @@ I'm Father of Corgi 🦊
 ## **Pet Projects** ##
 Project title|Project Demo|Project Description|
 :-----------:|:----------:|:-----------------:|
-RSS CV       |[CV project](https://paveltitov16.github.io/rsschool-cv/)|My first CV project during the RSS courses JavaScript/Front-end. Stage 0. Stack: HTML, CSS, Javascript|
+[RSS CV](https://github.com/PavelTitov16/rsschool-cv)      |[CV project](https://paveltitov16.github.io/rsschool-cv/)|My first CV project during the RSS courses JavaScript/Front-end. Stage 0. Stack: HTML, CSS, Javascript|
 Portfolio    |            |                   |
 
-
+   
 
 [Portfolio](https://paveltitov16.github.io/Photographer-s-portfolio/portfolio/)\
 [Custom video](https://paveltitov16.github.io/Video_player/custom-video/)\
