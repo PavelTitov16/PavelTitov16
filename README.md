@@ -33,20 +33,14 @@ I'm Father of Corgi 🦊
 ## **Pet Projects** ##
 Project title|Project Demo|Project Description|
 :-----------:|:----------:|:-----------------:|
-[RSS CV](https://github.com/PavelTitov16/rsschool-cv)      |[CV project](https://paveltitov16.github.io/rsschool-cv/)|My first CV project during the RSS courses JavaScript/Front-end. Stage 0. Stack: HTML, CSS, Javascript|
-Photographer's portfolio|[Portfolio](https://paveltitov16.github.io/Photographer-s-portfolio/portfolio/)|                   |
+[RSS CV](https://github.com/PavelTitov16/rsschool-cv)|[CV project](https://paveltitov16.github.io/rsschool-cv/)|My first CV project during the RollingScopesSchool courses JavaScript/Front-end. Stage 0|
+[Photographer's portfolio](https://github.com/PavelTitov16/Photographer-s-portfolio)|[Portfolio](https://paveltitov16.github.io/Photographer-s-portfolio/portfolio/)|Photographer's portfolio landing page. JavaScript realizes useful interactive features for the customer. The RollingScopesSchool courses JavaScript/Front-end. Stage 0.|
 Custom video|[Video player](https://paveltitov16.github.io/Video_player/custom-video/)|                   |
 Movie  search application|[Movie application](https://paveltitov16.github.io/Movie-application/movie-app/)|                   |
 Game **"Corgi Jump"**    |[**"Corgi Jump"**](https://paveltitov16.github.io/Corgi_Jump-game/game-app/)|                   |
 Quiz    |[Quiz application](https://paveltitov16.github.io/Quiz/)|                   |
 Portfolio    |            |                   |
-
-   
-
-
-
-
-
+ 
 
 
 ## **Education** ##
