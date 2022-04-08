@@ -37,12 +37,11 @@ Project title|Project Demo|Project Description|
 [Photographer's portfolio](https://github.com/PavelTitov16/Photographer-s-portfolio)|[Portfolio](https://paveltitov16.github.io/Photographer-s-portfolio/portfolio/)|Photographer's portfolio landing page. JavaScript realizes useful interactive features for the customer. The RollingScopesSchool courses JavaScript/Front-end. Stage 0|
 [Custom video](https://github.com/PavelTitov16/Video_player)|[Video player](https://paveltitov16.github.io/Video_player/custom-video/)|Custom Video Player that is made to the designer's intent and whose appearance does not depend on the browser or device being used. This case is for previous Portfolio project during the RollingScopesSchool courses JavaScript/Front-end. Stage 0|
 [Movie  search application](https://github.com/PavelTitov16/Movie-application)|[Movie application](https://paveltitov16.github.io/Movie-application/movie-app/)|Movie search application with individual space design. API is responsible for searching films functionality. The RollingScopesSchool courses JavaScript/Front-end. Stage 0|
-[Game **"Corgi Jump"**](https://github.com/PavelTitov16/Corgi_Jump-game)|[**"Corgi Jump"**](https://paveltitov16.github.io/Corgi_Jump-game/game-app/)|"Corgi Jump" - is a fun browser game wroten in an interesting canvas technology JavaScript. Before start the game you chose your corgi player style and your main goal to jump over sheeps and collect different bonuses: to increase your score or to fly like SuperCorgi. The RollingScopesSchool courses JavaScript/Front-end. Stage 0|
-Quiz    |[Quiz application](https://paveltitov16.github.io/Quiz/)|                   |
+[Game in canvas](https://github.com/PavelTitov16/Corgi_Jump-game)|[**Corgi Jump**](https://paveltitov16.github.io/Corgi_Jump-game/game-app/)|"Corgi Jump" - is a fun browser game wroten in an interesting canvas technology JavaScript. Before start the game you chose your corgi player style and your main goal to jump over sheeps and collect different bonuses: to increase your score or to fly like SuperCorgi. The RollingScopesSchool courses JavaScript/Front-end. Stage 0|
+[Quiz game](https://github.com/PavelTitov16/Quiz)|[Millionaire quiz](https://paveltitov16.github.io/Quiz/)|Quiz application reference to the Millionaire game wroten on native JavaScript. Your goal - to get High Score correctly answering the questions. Special thanks to Sergey Demin for inspire|
 Portfolio    |            |                   |
  
-
-
+Tic-Tac-Toe
 
 ## **Education** ##
 * Belarusian National Technical University
