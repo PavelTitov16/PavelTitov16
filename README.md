@@ -18,15 +18,22 @@ I'm Father of Corgi 🦊
 ## **Skills & Technologies** ##
 * HTML
 * CSS
+* Sass/Scss (in progress)
 * JavaScript
 * Git
 * VS Code
 * Figma
-* Dev Tools
+* DevTools
 * Netlify
 * React (in progress)
 
-## **Projects** ##
+## **Pet Projects** ##
+Project title|Project Demo|Project Description|
+-------------|------------|-------------------|
+RSS CV       |            |                   |
+Portfolio    |            |                   |
+
+
 [CV project](https://paveltitov16.github.io/rsschool-cv/)\
 [Portfolio](https://paveltitov16.github.io/Photographer-s-portfolio/portfolio/)\
 [Custom video](https://paveltitov16.github.io/Video_player/custom-video/)\
