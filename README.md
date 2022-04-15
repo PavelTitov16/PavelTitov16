@@ -55,9 +55,10 @@ New project|            |                   |
     + **Code Basics** - JavaScript for begginers
 
 ## **Languages** ##
-* Russian - native
+* Belarusian - native
 * English - upper intermediate
    + Practiced English as volunteer interpreter at different sport competitions during student's time
+* Russian - native
 
 ## **Contacts** ##
 **Location:** Minsk, Belarus\
