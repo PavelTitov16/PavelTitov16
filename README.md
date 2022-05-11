@@ -36,8 +36,8 @@ Project title|Project Deploy|Project Description|
 [Calculate application](https://github.com/PavelTitov16/Calculate)|**(in progress)**|Calculator wroten on JavaScript for help to calculate family expenses. The online calculator will calculate expenses for rent, utilities, transport, loans and etc. to plan family reserves for money box.|
 [Uber-eats-web](https://github.com/PavelTitov16/Uber-eats-web)|**(in progress)**|An Uber eats web page with page of one restaurant. Previously it was my graduate project on Stepik courses - Web development for begginers: HTML&CSS. I decided to rewrite him on **Sass** to consolidate my new knowledge|
 [Shelter Cozy House](https://github.com/PavelTitov16/Shelter)|[Shelter](https://paveltitov16.github.io/Shelter/shelter/pages/main/index.html)|Adaptive pet's shelter landing page for different kinds of devices and browsers. Have some ideas in future. The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
-Virtual Keyboard|**(in progress)**|The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
-CSS Mem Slider|**(in progress)**|The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
+[Virtual Keyboard](https://github.com/PavelTitov16/Virtual-Keyboard)|**(in progress)**|The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
+[CSS Mem Slider](https://github.com/PavelTitov16/cssMemSlider)|**(in progress)**|The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
 HTML Builder|**(in progress)**|The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
 New project|            |                   |
  
