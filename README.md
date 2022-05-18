@@ -1,5 +1,5 @@
 ### Hello there 👋
-[![](https://www.codewars.com/users/PavelTitov16/badges/large)](https://github.com/PavelTitov16/HTML-builder)
+[![](https://www.codewars.com/users/PavelTitov16/badges/large)](https://www.codewars.com/users/PavelTitov16)
 ### General Kenobi 👋👋👋👋
 
 ## **About me** ##
