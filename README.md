@@ -73,7 +73,12 @@ New project|            |                   |
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://user-images.githubusercontent.com/94010184/154801518-49ee9ecb-0ddb-4325-9069-d0afeaec691c.gif)
 
 
-
+<!---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PavelTitov16&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelTitov16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **PavelTitov16/PavelTitov16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
