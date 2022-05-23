@@ -23,6 +23,7 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-DevTools-blue?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 * Gulp (in progress)
+* TypeScript (in progress)
 
 ## **Pet Projects** ##
 Project title|Project Deploy|Project Description|
