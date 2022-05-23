@@ -1,5 +1,5 @@
 ### Hello there 👋
-[![](https://www.codewars.com/users/PavelTitov16/badges/large)](https://www.codewars.com/users/PavelTitov16)
+[![](https://www.codewars.com/users/PavelTitov16/badges/large)](https://www.codewars.com/users/PavelTitov16) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PavelTitov16&theme=light&background=#fffff)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelTitov16&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 ### General Kenobi 👋👋👋👋
 
 ## **About me** ##
@@ -43,9 +43,6 @@ Project title|Project Deploy|Project Description|
 [HTML Builder](https://github.com/PavelTitov16/HTML-builder)|[Solar System,](https://paveltitov16.github.io/node-css-bundle/css-bundle/project-dist/) [WildLife](https://paveltitov16.github.io/node-html-page/wildlife-page/project-dist/)|The block consists of five small tasks with increasing difficulty and a final task. Tasks focus on learning specific topics such as: working with files, streams, events, paths and directories to consolidate the basics of **NodeJS**. The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
 [Сlean Code](https://github.com/PavelTitov16/clean-code)|**(in progress)**|The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
 New project|            |                   |
- 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PavelTitov16&theme=light&background=#fffff)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelTitov16&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **Education** ##
 * Belarusian National Technical University
