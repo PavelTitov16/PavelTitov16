@@ -15,11 +15,12 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=cyan)
 
 ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
+![](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=red)
 ![](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=AdobePhotoshop&logoColor=blue)
 ![](https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify&logoColor=cyan)
 
-* VS Code
+
 * DevTools
 * Gulp (in progress)
 
