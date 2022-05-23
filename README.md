@@ -19,9 +19,8 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=red)
 ![](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=AdobePhotoshop&logoColor=blue)
 ![](https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify&logoColor=cyan)
+![](https://img.shields.io/badge/-DevTools-blue?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-
-* DevTools
 * Gulp (in progress)
 
 ## **Pet Projects** ##
