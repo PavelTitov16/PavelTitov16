@@ -1,10 +1,10 @@
 ### Hello there 👋
-[![](https://www.codewars.com/users/PavelTitov16/badges/large)](https://www.codewars.com/users/PavelTitov16)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelTitov16&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://www.codewars.com/users/PavelTitov16/badges/large)](https://www.codewars.com/users/PavelTitov16)    
+### General Kenobi 👋👋👋👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelTitov16&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PavelTitov16&theme=light&background=#fffff)](https://git.io/streak-stats) 
-### General Kenobi 👋👋👋👋
-
 ## **About me** ##
 Front-end Developing is a new call for realizing my strong ability to adapt to new environment and challenges. I want to take part in new activities with my persistence in bringing the work started to the end with high ability of team playing - want to feel myself needed in using my English.
 
