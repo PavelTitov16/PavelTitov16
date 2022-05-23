@@ -45,9 +45,7 @@ Project title|Project Deploy|Project Description|
 New project|            |                   |
  
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PavelTitov16&theme=dark&background=fffff)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelTitov16&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PavelTitov16&theme=light&background=#fffff)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelTitov16&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **Education** ##
 * Belarusian National Technical University
