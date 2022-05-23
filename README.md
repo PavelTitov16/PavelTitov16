@@ -11,18 +11,16 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
 ![](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=Sass&logoColor=pink)
+![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=cyan)
 
-* HTML
-* CSS
-* Sass/Scss (in progress)
-* JavaScript
-* React (in progress)
-* Git
+![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
+![](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=red)
+![](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=AdobePhotoshop&logoColor=blue)
+![](https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify&logoColor=cyan)
+
 * VS Code
-* Figma
-* Photoshop
 * DevTools
-* Netlify
 * Gulp (in progress)
 
 ## **Pet Projects** ##
