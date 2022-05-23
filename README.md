@@ -8,7 +8,7 @@ Front-end Developing is a new call for realizing my strong ability to adapt to n
 I'm Father of Corgi 🦊
 
 ## **Skills & Technologies** ##
-[](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)[](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+[!](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)[!](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 * HTML
 * CSS
 * Sass/Scss (in progress)
