@@ -4,9 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelTitov16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **About me** ##
-My Self-Introduction\
+**My Self-Introduction**\
 [![](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=mxiY7Jau1KU&ab_channel=PavluzontPictures)\
-My Work Profile\
+**My Work Profile**\
 [![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pavel-titov-5527a61b9/)
 
 Front-end Developing is a new call for realizing my strong ability to adapt to new environment and challenges. I want to take part in new activities with my persistence in bringing the work started to the end with high ability of team playing - want to feel myself needed in using my English.
