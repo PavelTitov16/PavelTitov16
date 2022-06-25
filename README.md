@@ -20,6 +20,7 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=Sass&logoColor=pink)
+![](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue)
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=cyan)
 
 ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
@@ -27,10 +28,9 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=red)
 ![](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=AdobePhotoshop&logoColor=blue)
 ![](https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify&logoColor=cyan)
-![](https://img.shields.io/badge/-DevTools-blue?style=for-the-badge&logo=googlechrome&logoColor=white)
+![](https://img.shields.io/badge/-DevTools-black?style=for-the-badge&logo=googlechrome&logoColor=yellow)
 
 * Gulp (in progress)
-* TypeScript (in progress)
 * Webpack (in progress)
 
 ## **Pet Projects** ##
@@ -45,7 +45,7 @@ Project title|Project Deploy|Project Description|
 [Mouse Game](https://github.com/PavelTitov16/Aim_Game)|[Aim Game](https://paveltitov16.github.io/Aim_Game/)|Game to train player's reaction to move mouse fast and directly click. Useful for players who likes playing combat shooters. Special thanks to Vladilen Minin for inspiration|
 [Tic-Tac-Toe](https://github.com/PavelTitov16/tic-tac-toe)|**(debugging)**|The game "Tic-Tac-Toe" is played on a square field 3 by 3 cells. When clicking on the cells of the playing field, the first move always puts a cross, the next zero, and so on in turn. The goal of the game is to line up a row of three identical figures vertically, horizontally or diagonally.|
 [Schedule application](https://github.com/PavelTitov16/to-Do-List)|[to Do List](https://paveltitov16.github.io/to-Do-List/)|A small schedule application written on JavaScript helping to increase customer efficiency. App let to set new tasks, mark them finished and delete from list. Will be upgraded later|
-[Calculate application](https://github.com/PavelTitov16/Calculate)|**(in progress)**|Calculator written on JavaScript for help to calculate family expenses. The online calculator will calculate expenses for rent, utilities, transport, loans and etc. to plan family reserves for money box.|
+[Calculate application](https://github.com/PavelTitov16/Calculate)|[Family calculator](https://paveltitov16.github.io/Calculate/)|Calculator written on JavaScript for help to calculate family expenses. The online calculator will calculate expenses for rent, utilities, transport, loans and etc. to plan family reserves for money box.|
 [Uber-eats-web](https://github.com/PavelTitov16/Uber-eats-web)|**(in progress)**|An Uber eats web page with page of one restaurant. Previously it was my graduate project on Stepik courses - Web development for begginers: HTML&CSS. I decided to rewrite him on **Sass** to consolidate my new knowledge|
 [Shelter Cozy House](https://github.com/PavelTitov16/Shelter)|[Shelter](https://paveltitov16.github.io/Shelter/shelter/pages/main/index.html)|An adaptive pet's shelter landing page for different kinds of devices and browsers. JavaScript is responsible for different effects like slider, pop-up modal window, pagination and adaptive menu. Have some ideas in future. The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
 [Virtual Keyboard](https://github.com/PavelTitov16/Virtual-Keyboard)|**(in progress)**|A virtual keyboard written on **pure JavaScript** without libraries or frameworks. Clicks on the buttons with a mouse on the virtual keyboard and pressing keys on a physical keyboard should input symbols to the text area located on the page above the virtual keyboard. The virtual keyboard is able to switch between two language layouts. The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
@@ -53,7 +53,7 @@ Project title|Project Deploy|Project Description|
 [HTML Builder](https://github.com/PavelTitov16/HTML-builder)|[Solar System,](https://paveltitov16.github.io/node-css-bundle/css-bundle/project-dist/) [WildLife](https://paveltitov16.github.io/node-html-page/wildlife-page/project-dist/)|The block consists of five small tasks with increasing difficulty and a final task. Tasks focus on learning specific topics such as: working with files, streams, events, paths and directories to consolidate the basics of **NodeJS**. The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
 [Сlean Code](https://github.com/PavelTitov16/clean-code-s1e1)|[TO DO application](https://paveltitov16.github.io/clean-code-s1e1/)|The main goal is to refactor the code  to rules and principles of **"Clean Code"**. At the same time, the functionality of the application should remain still working after your changes. ***BEM*** methodology is required for pages elements. The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
 [Drag and Drop](https://github.com/PavelTitov16/Drag_and_Drop)|**(in progress)**|An application for task managment similar to Trello. It realised by “capturing” a task with mouse and moving it to another location or “throwing” it to another element. Nice practice for mouse events in JavaScript.|
-[Hover Board](https://github.com/PavelTitov16/Hover_Board)|**(in progress)**|A small minigame for different mouse interactions. I have to add touch events for mobile version in future|
+[Hover Board](https://github.com/PavelTitov16/Hover_Board)|[Hover Board](https://paveltitov16.github.io/Hover_Board/)|A small minigame for different mouse interactions. I have to add touch events for mobile version in future|
 New project|            |                   |
 
 ## **Education** ##
