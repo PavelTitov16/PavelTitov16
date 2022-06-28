@@ -20,6 +20,7 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=Sass&logoColor=pink)
+![](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=Node.JS&logoColor=lime)
 ![](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue)
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=cyan)
 
@@ -54,6 +55,9 @@ Project title|Project Deploy|Project Description|
 [Сlean Code](https://github.com/PavelTitov16/clean-code-s1e1)|[TO DO application](https://paveltitov16.github.io/clean-code-s1e1/)|The main goal is to refactor the code  to rules and principles of **"Clean Code"**. At the same time, the functionality of the application should remain still working after your changes. ***BEM*** methodology is required for pages elements. The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
 [Drag and Drop](https://github.com/PavelTitov16/Drag_and_Drop)|**(in progress)**|An application for task managment similar to Trello. It realised by “capturing” a task with mouse and moving it to another location or “throwing” it to another element. Nice practice for mouse events in JavaScript.|
 [Hover Board](https://github.com/PavelTitov16/Hover_Board)|[Hover Board](https://paveltitov16.github.io/Hover_Board/)|A small minigame for different mouse interactions. I have to add touch events for mobile version in future|
+Migration to TypeScript|**(in progress)**|The RollingScopesSchool courses JavaScript/Front-end. Stage 2|
+Christmas Task|**(in progress)**|The RollingScopesSchool courses JavaScript/Front-end. Stage 2|
+Async Race|**(in progress)**|The RollingScopesSchool courses JavaScript/Front-end. Stage 2|
 New project|            |                   |
 
 ## **Education** ##
