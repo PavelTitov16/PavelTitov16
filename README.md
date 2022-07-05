@@ -30,9 +30,8 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=AdobePhotoshop&logoColor=blue)
 ![](https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify&logoColor=cyan)
 ![](https://img.shields.io/badge/-DevTools-black?style=for-the-badge&logo=googlechrome&logoColor=yellow)
+![](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=lightblue)
 
-* Gulp (in progress)
-* Webpack (in progress)
 
 ## **Pet Projects** ##
 Project title|Project Deploy|Project Description|
@@ -55,8 +54,8 @@ Project title|Project Deploy|Project Description|
 [Сlean Code](https://github.com/PavelTitov16/clean-code-s1e1)|[TO DO application](https://paveltitov16.github.io/clean-code-s1e1/)|The main goal is to refactor the code  to rules and principles of **"Clean Code"**. At the same time, the functionality of the application should remain still working after your changes. ***BEM*** methodology is required for pages elements. The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
 [Drag and Drop](https://github.com/PavelTitov16/Drag_and_Drop)|**(in progress)**|An application for task managment similar to Trello. It realised by “capturing” a task with mouse and moving it to another location or “throwing” it to another element. Nice practice for mouse events in JavaScript.|
 [Hover Board](https://github.com/PavelTitov16/Hover_Board)|[Hover Board](https://paveltitov16.github.io/Hover_Board/)|A small minigame for different mouse interactions. I have to add touch events for mobile version in future|
-Migration to TypeScript|**(in progress)**|The RollingScopesSchool courses JavaScript/Front-end. Stage 2|
-Christmas Task|**(in progress)**|The RollingScopesSchool courses JavaScript/Front-end. Stage 2|
+Migration to TypeScript|**News API**|An adaptive HTTP REST API application for searching and retrieving news from the entire web. First experience to work with different basic and advanced capabilities of **TypeScript**, with ***ESlint*** and ***Webpack*** configuration. The RollingScopesSchool courses JavaScript/Front-end. Stage 2|
+Online-Store|**(in progress)**|The RollingScopesSchool courses JavaScript/Front-end. Stage 2|
 Async Race|**(in progress)**|The RollingScopesSchool courses JavaScript/Front-end. Stage 2|
 New project|            |                   |
 
