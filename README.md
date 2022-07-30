@@ -5,15 +5,21 @@
 
 ## **About me** ##
 **My Self-Introduction**\
-[![](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=mxiY7Jau1KU&ab_channel=PavluzontPictures)\
-**My Work Profile**\
-[![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pavel-titov-5527a61b9/)
+[![](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=mxiY7Jau1KU&ab_channel=PavluzontPictures)
 
 Front-end Development is a new call for realizing my strong ability to adapt to new environment and challenges. I want to take part in new activities with my persistence in bringing the work started to the end with high ability of team playing - want to feel myself needed in using my English.
 
 I'm Father of Corgi 🦊
 
- 
+## **Work Experience** ##
+**My Work Profile**\
+[![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pavel-titov-5527a61b9/)
+
+**Exadel**|   
+:-----------:|
+  React developer Trainee
+ ***07.22 - current time***
+
 
 ## **Skills & Technologies** ##
 ![](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
@@ -43,19 +49,17 @@ Project title|Project Deploy|Project Description|
 [Game in canvas](https://github.com/PavelTitov16/Corgi_Jump-game)|[**Corgi Jump**](https://paveltitov16.github.io/Corgi_Jump-game/game-app/)|**"Corgi Jump"** - is a fun browser game written on an interesting canvas technology JavaScript. Before start the game you chose your corgi player style and your main goal to jump over sheeps and collect different bonuses: to increase your score or to fly like SuperCorgi. The RollingScopesSchool courses JavaScript/Front-end. Stage 0|
 [Quiz game](https://github.com/PavelTitov16/Quiz)|[Millionaire quiz](https://paveltitov16.github.io/Quiz/)|Quiz application reference to the Millionaire game written on native JavaScript. Your goal - to get High Score correctly answering the questions. Special thanks to Sergey Demin for inspiration|
 [Mouse Game](https://github.com/PavelTitov16/Aim_Game)|[Aim Game](https://paveltitov16.github.io/Aim_Game/)|Game to train player's reaction to move mouse fast and directly click. Useful for players who likes playing combat shooters. Special thanks to Vladilen Minin for inspiration|
-[Tic-Tac-Toe](https://github.com/PavelTitov16/tic-tac-toe)|**(debugging)**|The game "Tic-Tac-Toe" is played on a square field 3 by 3 cells. When clicking on the cells of the playing field, the first move always puts a cross, the next zero, and so on in turn. The goal of the game is to line up a row of three identical figures vertically, horizontally or diagonally.|
 [Schedule application](https://github.com/PavelTitov16/to-Do-List)|[to Do List](https://paveltitov16.github.io/to-Do-List/)|A small schedule application written on JavaScript helping to increase customer efficiency. App let to set new tasks, mark them finished and delete from list. Will be upgraded later|
 [Calculate application](https://github.com/PavelTitov16/Calculate)|[Family calculator](https://paveltitov16.github.io/Calculate/)|Calculator written on JavaScript for help to calculate family expenses. The online calculator will calculate expenses for rent, utilities, transport, loans and etc. to plan family reserves for money box.|
-[Uber-eats-web](https://github.com/PavelTitov16/Uber-eats-web)|**(in progress)**|An Uber eats web page with page of one restaurant. Previously it was my graduate project on Stepik courses - Web development for begginers: HTML&CSS. I decided to rewrite him on **Sass** to consolidate my new knowledge|
 [Shelter Cozy House](https://github.com/PavelTitov16/Shelter)|[Shelter](https://paveltitov16.github.io/Shelter/shelter/pages/main/index.html)|An adaptive pet's shelter landing page for different kinds of devices and browsers. JavaScript is responsible for different effects like slider, pop-up modal window, pagination and adaptive menu. Have some ideas in future. The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
 [Virtual Keyboard](https://github.com/PavelTitov16/Virtual-Keyboard)|**(in progress)**|A virtual keyboard written on **pure JavaScript** without libraries or frameworks. Clicks on the buttons with a mouse on the virtual keyboard and pressing keys on a physical keyboard should input symbols to the text area located on the page above the virtual keyboard. The virtual keyboard is able to switch between two language layouts. The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
 [CSS Mem Slider](https://github.com/PavelTitov16/cssMemSlider)|[Mem Slider](https://paveltitov16.github.io/cssMemSlider/cssMemSlider/)|An adaptive slider for memes from our current school group written in relative units on **pure CSS**. JavaScript is forbidden to use. The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
 [HTML Builder](https://github.com/PavelTitov16/HTML-builder)|[Solar System,](https://paveltitov16.github.io/node-css-bundle/css-bundle/project-dist/) [WildLife](https://paveltitov16.github.io/node-html-page/wildlife-page/project-dist/)|The block consists of five small tasks with increasing difficulty and a final task. Tasks focus on learning specific topics such as: working with files, streams, events, paths and directories to consolidate the basics of **NodeJS**. The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
 [Сlean Code](https://github.com/PavelTitov16/clean-code-s1e1)|[TO DO application](https://paveltitov16.github.io/clean-code-s1e1/)|The main goal is to refactor the code  to rules and principles of **"Clean Code"**. At the same time, the functionality of the application should remain still working after your changes. ***BEM*** methodology is required for pages elements. The RollingScopesSchool courses JavaScript/Front-end. Stage 1|
-[Drag and Drop](https://github.com/PavelTitov16/Drag_and_Drop)|**(in progress)**|An application for task managment similar to Trello. It realised by “capturing” a task with mouse and moving it to another location or “throwing” it to another element. Nice practice for mouse events in JavaScript.|
+[Drag and Drop](https://github.com/PavelTitov16/Drag_and_Drop)|[Drag Me](https://paveltitov16.github.io/Drag_and_Drop/)|An application for task managment similar to Trello. It realised by “capturing” a task with mouse and moving it to another location or “throwing” it to another element. Nice practice for mouse events in JavaScript.|
 [Hover Board](https://github.com/PavelTitov16/Hover_Board)|[Hover Board](https://paveltitov16.github.io/Hover_Board/)|A small minigame for different mouse interactions. I have to add touch events for mobile version in future|
 Migration to TypeScript|**News API**|An adaptive HTTP REST API application for searching and retrieving news from the entire web. First experience to work with different basic and advanced capabilities of **TypeScript**, with ***ESlint*** and ***Webpack*** configuration. The RollingScopesSchool courses JavaScript/Front-end. Stage 2|
-Online-Store|**(in progress)**|The RollingScopesSchool courses JavaScript/Front-end. Stage 2|
+Online-Store|**Hogwarts Shop**|**Hogwarts Shop** - an online store, where magical goods have the following functionality: filtering, sorting, searching, adding to cart. It's performed by modules in **TypeScript**, with ***ESlint*** and ***Webpack*** configuration. The RollingScopesSchool courses JavaScript/Front-end. Stage 2|
 Async Race|**(in progress)**|The RollingScopesSchool courses JavaScript/Front-end. Stage 2|
 New project|            |                   |
 
