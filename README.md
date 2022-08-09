@@ -60,8 +60,9 @@ Project title|Project Deploy|Project Description|
 [Hover Board](https://github.com/PavelTitov16/Hover_Board)|[Hover Board](https://paveltitov16.github.io/Hover_Board/)|A small minigame for different mouse interactions. I have to add touch events for mobile version in future|
 Migration to TypeScript|**News API**|An adaptive HTTP REST API application for searching and retrieving news from the entire web. First experience to work with different basic and advanced capabilities of **TypeScript**, with ***ESlint*** and ***Webpack*** configuration. The RollingScopesSchool courses JavaScript/Front-end. Stage 2|
 Online-Store|**Hogwarts Shop**|**Hogwarts Shop** - an online store, where magical goods have the following functionality: filtering, sorting, searching, adding to cart. It's performed by modules in **TypeScript**, with ***ESlint*** and ***Webpack*** configuration. The RollingScopesSchool courses JavaScript/Front-end. Stage 2|
-Async Race|**(in progress)**|The RollingScopesSchool courses JavaScript/Front-end. Stage 2|
-New project|            |                   |
+Async Race|**Need for Promise**|SPA to manage the collection of the cars, operate its engines, and show races statistics. Each radio-contorller has an HTTP-compatible interface. ***REST API*** queries let you to start or stop engine of the car and of course enable "driving" mode. It's performed by modules in **TypeScript**, with ***ESlint*** and ***Webpack*** configuration. To check **Drag Race** you have to run [this BE server](https://github.com/PavelTitov16/async-race-api)|
+RS Lang|**(in progress)**|The RollingScopesSchool courses JavaScript/Front-end. Stage 2|
+Secret Project|**(in progress)**|will be very interesting soon...|
 
 ## **Education** ##
 * Belarusian National Technical University
