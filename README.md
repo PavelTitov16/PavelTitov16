@@ -77,6 +77,9 @@ Secret Project|**(in progress)**|will be very interesting soon...|
     + **Code Basics** - HTML for begginers 
     + **Code Basics** - CSS for begginers
     + **Code Basics** - JavaScript for begginers
+    
+* Traineeship
+    + **Exadel** - React developer trainee (07.22 - 09.22)
 
 ## **Languages** ##
 * Belarusian - native
