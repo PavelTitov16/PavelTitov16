@@ -32,13 +32,13 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular&logoColor=red)
 
 ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
-![](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=red)
 ![](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=AdobePhotoshop&logoColor=blue)
 ![](https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify&logoColor=cyan)
 ![](https://img.shields.io/badge/-DevTools-black?style=for-the-badge&logo=googlechrome&logoColor=yellow)
 ![](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=lightblue)
 ![](https://img.shields.io/badge/-ESLint-black?style=for-the-badge&logo=ESLint&logoColor=purple)
+![](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 
 
 ## **Pet Projects** ##
