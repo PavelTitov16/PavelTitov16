@@ -64,11 +64,11 @@ Secret Project|**(in progress)**|will be very interesting soon...|
 * Academy of postgraduate education
     + Interpreter
 * Courses
-    + **Stepik** - JavaScript for begginers ([certificate](https://stepik.org/cert/1267113))
-    + **Stepik** - Web development for begginers: HTML&CSS ([certificate](https://stepik.org/cert/1328852))
     + **RS Schools** - «JavaScript/Front-end Pre-school 2022» ([certificate](https://app.rs.school/certificate/3775uhay))
     + **RS Schools** - «JavaScript/Front-end 2022Q1» ([certificate](https://app.rs.school/certificate/a76k6q8t))
     + **RS Schools** - «React 2022Q3» (in proggress)
+    + **Stepik** - JavaScript for begginers ([certificate](https://stepik.org/cert/1267113))
+    + **Stepik** - Web development for begginers: HTML&CSS ([certificate](https://stepik.org/cert/1328852))
     + **Code Basics** - HTML for begginers 
     + **Code Basics** - CSS for begginers
     + **Code Basics** - JavaScript for begginers
