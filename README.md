@@ -1,25 +1,17 @@
 ### Hello there 👋
 [![](https://www.codewars.com/users/PavelTitov16/badges/large)](https://www.codewars.com/users/PavelTitov16)    
 ### General Kenobi 👋👋👋👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelTitov16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## **About me** ##
 **My Self-Introduction**\
-[![](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=mxiY7Jau1KU&ab_channel=PavluzontPictures)
+[![](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=mxiY7Jau1KU&ab_channel=PavluzontPictures)\
+**My Work Profile**\
+[![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pavel-titov-5527a61b9/)
 
 Front-end Development is a new call for realizing my strong ability to adapt to new environment and challenges. I want to take part in new activities with my persistence in bringing the work started to the end with high ability of team playing - want to feel myself needed in using my English.
 
 I'm Father of Corgi 🦊
-
-## **Work Experience** ##
-**My Work Profile**\
-[![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pavel-titov-5527a61b9/)
-
-**Exadel**|   
-:-----------:|
-  React developer Trainee
- ***07.22 - current time***
-
 
 ## **Skills & Technologies** ##
 ![](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
@@ -75,13 +67,14 @@ Secret Project|**(in progress)**|will be very interesting soon...|
     + **Stepik** - JavaScript for begginers ([certificate](https://stepik.org/cert/1267113))
     + **Stepik** - Web development for begginers: HTML&CSS ([certificate](https://stepik.org/cert/1328852))
     + **RS Schools** - «JavaScript/Front-end Pre-school 2022» ([certificate](https://app.rs.school/certificate/3775uhay))
-    + **RS Schools** - «JavaScript/Front-end 2022Q1» (in proggress)
+    + **RS Schools** - «JavaScript/Front-end 2022Q1» ([certificate](https://app.rs.school/certificate/a76k6q8t))
+    + **RS Schools** - «React 2022Q3» (in proggress)
     + **Code Basics** - HTML for begginers 
     + **Code Basics** - CSS for begginers
     + **Code Basics** - JavaScript for begginers
     
 * Traineeship
-    + **Exadel** - React developer trainee (07.22 - 09.22)
+    + **Exadel** - React developer trainee (07.22 - 09.22) ([certificate](https://drive.google.com/file/d/1m_OOi39_5e0V3Wo_xTzFauovq0NKGgqY/view?usp=sharing))
 
 ## **Languages** ##
 * Belarusian - native
