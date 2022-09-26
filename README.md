@@ -1,7 +1,7 @@
 ### Hello there 👋
 [![](https://www.codewars.com/users/PavelTitov16/badges/large)](https://www.codewars.com/users/PavelTitov16)    
 ### General Kenobi 👋👋👋👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelTitov16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## **About me** ##
 **My Self-Introduction**\
@@ -69,6 +69,8 @@ Secret Project|**(in progress)**|will be very interesting soon...|
     + **RS Schools** - «React 2022Q3» (in proggress)
     + **Stepik** - JavaScript for begginers ([certificate](https://stepik.org/cert/1267113))
     + **Stepik** - Web development for begginers: HTML&CSS ([certificate](https://stepik.org/cert/1328852))
+    + **WayUP** - JavaScript: capturing ([certificate](https://drive.google.com/file/d/1ONEryzrddSOkf1T36jYhv0Nt8c9gMr40/view?usp=sharing))
+    + **WayUP** - Web developer:the beggining ([certificate](https://drive.google.com/file/d/1QxnQZ19yxoy9jjTtpied0BBzaFq075d1/view?usp=sharing))
     + **Code Basics** - HTML for begginers 
     + **Code Basics** - CSS for begginers
     + **Code Basics** - JavaScript for begginers
