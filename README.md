@@ -21,6 +21,7 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=Node.JS&logoColor=lime)
 ![](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue)
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=cyan)
+![](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=Redux&logoColor=magenta)
 ![](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular&logoColor=red)
 
 ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
@@ -88,7 +89,6 @@ Secret Project|**(in progress)**|will be very interesting soon...|
 
 ## **Contacts** ##
 **Location:** Minsk, Belarus\
-**Phone:** +375 29 348-62-01\
 **Email:** pashoktitov16@gmail.com\
 **Discord:** Pavluzont #5919\
 **Telegram:** Pavluzont 
