@@ -67,7 +67,7 @@ Secret Project|**(in progress)**|will be very interesting soon...|
 * Courses
     + **RS Schools** - «JavaScript/Front-end Pre-school 2022» ([certificate](https://app.rs.school/certificate/3775uhay))
     + **RS Schools** - «JavaScript/Front-end 2022Q1» ([certificate](https://app.rs.school/certificate/a76k6q8t))
-    + **RS Schools** - «React 2022Q3» (in proggress)
+    + **RS Schools** - «React 2022Q3» ([certificate](https://app.rs.school/certificate/a7z5m6kl))
     + **Stepik** - JavaScript for begginers ([certificate](https://stepik.org/cert/1267113))
     + **Stepik** - Web development for begginers: HTML&CSS ([certificate](https://stepik.org/cert/1328852))
     + **WayUP** - JavaScript: capturing ([certificate](https://drive.google.com/file/d/1ONEryzrddSOkf1T36jYhv0Nt8c9gMr40/view?usp=sharing))
