@@ -23,8 +23,12 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=cyan)
 ![](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=Redux&logoColor=magenta)
 ![](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular&logoColor=red)
+![](https://img.shields.io/badge/-Styled_Components-black?style=for-the-badge&logo=styled-components&logoColor=yellow)
+![](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=cyan)
+![](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase&logoColor=yellow)
 
 ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
+![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=tomato)
 ![](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=red)
 ![](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=AdobePhotoshop&logoColor=blue)
 ![](https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify&logoColor=cyan)
