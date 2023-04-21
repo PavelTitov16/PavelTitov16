@@ -25,7 +25,8 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular&logoColor=red)
 ![](https://img.shields.io/badge/-Styled_Components-black?style=for-the-badge&logo=styled-components&logoColor=yellow)
 ![](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=cyan)
-![](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase&logoColor=yellow)
+![](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring&logoColor=green)
 
 ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=tomato)
@@ -35,6 +36,7 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-DevTools-black?style=for-the-badge&logo=googlechrome&logoColor=yellow)
 ![](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=lightblue)
 ![](https://img.shields.io/badge/-ESLint-black?style=for-the-badge&logo=ESLint&logoColor=purple)
+![](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase&logoColor=yellow)
 ![](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 
 
@@ -69,9 +71,10 @@ Secret Project|**(in progress)**|will be very interesting soon...|
 * Academy of postgraduate education
     + Interpreter
 * Courses
-    + **RS Schools** - «JavaScript/Front-end Pre-school 2022» ([certificate](https://app.rs.school/certificate/3775uhay))
-    + **RS Schools** - «JavaScript/Front-end 2022Q1» ([certificate](https://app.rs.school/certificate/a76k6q8t))
+    + **Udemy** - «Professional Java Developer Career Starter: Java Foundations» ([certificate](https://www.udemy.com/certificate/UC-7353b25e-0912-4963-bc57-00a2d1171b3a/))
     + **RS Schools** - «React 2022Q3» ([certificate](https://app.rs.school/certificate/a7z5m6kl))
+    + **RS Schools** - «JavaScript/Front-end 2022Q1» ([certificate](https://app.rs.school/certificate/a76k6q8t))
+    + **RS Schools** - «JavaScript/Front-end Pre-school 2022» ([certificate](https://app.rs.school/certificate/3775uhay))
     + **Stepik** - JavaScript for begginers ([certificate](https://stepik.org/cert/1267113))
     + **Stepik** - Web development for begginers: HTML&CSS ([certificate](https://stepik.org/cert/1328852))
     + **WayUP** - JavaScript: capturing ([certificate](https://drive.google.com/file/d/1ONEryzrddSOkf1T36jYhv0Nt8c9gMr40/view?usp=sharing))
@@ -82,6 +85,7 @@ Secret Project|**(in progress)**|will be very interesting soon...|
     
 * Traineeship
     + **Exadel** - React developer trainee (07.22 - 09.22) ([certificate](https://drive.google.com/file/d/1m_OOi39_5e0V3Wo_xTzFauovq0NKGgqY/view?usp=sharing))
+    + **Exadel** - Full Stack developer trainee (**in progress**)
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://user-images.githubusercontent.com/94010184/154801518-49ee9ecb-0ddb-4325-9069-d0afeaec691c.gif)
 
