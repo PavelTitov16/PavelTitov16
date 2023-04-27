@@ -27,6 +27,7 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=cyan)
 ![](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring&logoColor=green)
+![](https://img.shields.io/badge/-SQL-black?style=for-the-badge)
 
 ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=tomato)
@@ -38,6 +39,7 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-ESLint-black?style=for-the-badge&logo=ESLint&logoColor=purple)
 ![](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase&logoColor=yellow)
 ![](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman&logoColor=orange)
 
 
 ## **Pet Projects** ##
@@ -71,6 +73,7 @@ Secret Project|**(in progress)**|will be very interesting soon...|
 * Academy of postgraduate education
     + Interpreter
 * Courses
+    + **Udemy** - «Spring Boot 3, Spring 6 & Hibernate for Beginners» (in progress)
     + **Udemy** - «Professional Java Developer Career Starter: Java Foundations» ([certificate](https://www.udemy.com/certificate/UC-7353b25e-0912-4963-bc57-00a2d1171b3a/))
     + **RS Schools** - «React 2022Q3» ([certificate](https://app.rs.school/certificate/a7z5m6kl))
     + **RS Schools** - «JavaScript/Front-end 2022Q1» ([certificate](https://app.rs.school/certificate/a76k6q8t))
