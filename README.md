@@ -28,9 +28,11 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring&logoColor=green)
 ![](https://img.shields.io/badge/-SQL-black?style=for-the-badge)
+![](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vue.js&logoColor=mint)
 
-![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=tomato)
+![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
+![](https://img.shields.io/badge/-Gitlab-black?style=for-the-badge&logo=gitlab&logoColor=orange)
 ![](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=red)
 ![](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=AdobePhotoshop&logoColor=blue)
 ![](https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify&logoColor=cyan)
@@ -40,7 +42,8 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase&logoColor=yellow)
 ![](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman&logoColor=orange)
-
+![](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mySql&logoColor=cyan)
+![](https://img.shields.io/badge/-Hibernate-black?style=for-the-badge&logo=hibernate&logoColor=grey)
 
 ## **Pet Projects** ##
 Project title|Project Deploy|Project Description|
