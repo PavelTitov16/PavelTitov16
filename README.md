@@ -91,7 +91,7 @@ Secret Project|**(in progress)**|will be very interesting soon...|
     
 * Traineeship
     + **Exadel** - React developer trainee (07.22 - 09.22) ([certificate](https://drive.google.com/file/d/1m_OOi39_5e0V3Wo_xTzFauovq0NKGgqY/view?usp=sharing))
-    + **Exadel** - Full Stack developer trainee (**in progress**)
+    + **Exadel** - Full Stack developer trainee (05.23 - 07.23)
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://user-images.githubusercontent.com/94010184/154801518-49ee9ecb-0ddb-4325-9069-d0afeaec691c.gif)
 
