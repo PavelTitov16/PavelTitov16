@@ -76,7 +76,7 @@ Secret Project|**(in progress)**|will be very interesting soon...|
 * Academy of postgraduate education
     + Interpreter
 * Courses
-    + **Udemy** - «Spring Boot 3, Spring 6 & Hibernate for Beginners» (in progress)
+    + **Udemy** - «Spring Boot 3, Spring 6 & Hibernate for Beginners» ([certificate](https://www.udemy.com/certificate/UC-febd21c2-d3ad-48b8-a482-ca1c42a83ed4/))
     + **Udemy** - «Professional Java Developer Career Starter: Java Foundations» ([certificate](https://www.udemy.com/certificate/UC-7353b25e-0912-4963-bc57-00a2d1171b3a/))
     + **RS Schools** - «React 2022Q3» ([certificate](https://app.rs.school/certificate/a7z5m6kl))
     + **RS Schools** - «JavaScript/Front-end 2022Q1» ([certificate](https://app.rs.school/certificate/a76k6q8t))
