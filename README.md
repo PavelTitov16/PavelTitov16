@@ -22,13 +22,14 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue)
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=cyan)
 ![](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=Redux&logoColor=magenta)
-![](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular&logoColor=red)
+![](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vue.js&logoColor=mint)
 ![](https://img.shields.io/badge/-Styled_Components-black?style=for-the-badge&logo=styled-components&logoColor=yellow)
 ![](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=cyan)
 ![](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring&logoColor=green)
 ![](https://img.shields.io/badge/-SQL-black?style=for-the-badge)
-![](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vue.js&logoColor=mint)
+![](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular&logoColor=red)
+![](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&logoColor=green)
 
 ![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=tomato)
 ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
@@ -40,10 +41,12 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=lightblue)
 ![](https://img.shields.io/badge/-ESLint-black?style=for-the-badge&logo=ESLint&logoColor=purple)
 ![](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase&logoColor=yellow)
-![](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![](https://img.shields.io/badge/-IntelliJ%20Idea-black?style=for-the-badge&logo=intellijidea&logoColor=magenta)
 ![](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman&logoColor=orange)
 ![](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mySql&logoColor=cyan)
 ![](https://img.shields.io/badge/-Hibernate-black?style=for-the-badge&logo=hibernate&logoColor=grey)
+![](https://img.shields.io/badge/-Axios-black?style=for-the-badge&logo=axios&logoColor=white)
+![](https://img.shields.io/badge/-Pug-black?style=for-the-badge&logo=pug)
 
 ## **Pet Projects** ##
 Project title|Project Deploy|Project Description|
@@ -76,6 +79,8 @@ Secret Project|**(in progress)**|will be very interesting soon...|
 * Academy of postgraduate education
     + Interpreter
 * Courses
+    + **Udemy** - «Node JS & Deno.js, REST APIs with Node.js, GraphQL APIs, Authentication, MongoDB» (in progress)
+    + **Udemy** - «Full JavaScript and React. From zero to result» (in progress)
     + **Udemy** - «Spring Boot 3, Spring 6 & Hibernate for Beginners» ([certificate](https://www.udemy.com/certificate/UC-febd21c2-d3ad-48b8-a482-ca1c42a83ed4/))
     + **Udemy** - «Professional Java Developer Career Starter: Java Foundations» ([certificate](https://www.udemy.com/certificate/UC-7353b25e-0912-4963-bc57-00a2d1171b3a/))
     + **RS Schools** - «React 2022Q3» ([certificate](https://app.rs.school/certificate/a7z5m6kl))
@@ -100,15 +105,6 @@ Secret Project|**(in progress)**|will be very interesting soon...|
 * English - upper intermediate
    + Practiced English as volunteer interpreter at different sport competitions during student's time
 * Russian - native
-
-## **Contacts** ##
-**Location:** Minsk, Belarus\
-**Email:** pashoktitov16@gmail.com\
-**Discord:** Pavluzont #5919\
-**Telegram:** Pavluzont 
-
-
-
 
 
 
