@@ -26,6 +26,8 @@ I'm Father of Corgi 🦊
 ![](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=cyan)
 ![](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=Node.JS&logoColor=lime)
 ![](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&logoColor=green)
+![](https://img.shields.io/badge/-NoSQL-black?style=for-the-badge&logo=nosql&logoColor=green)
+![](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=green)
 ![](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular&logoColor=red)
 ![](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring&logoColor=green)
@@ -79,8 +81,8 @@ Secret Project|**(in progress)**|will be very interesting soon...|
 * Academy of postgraduate education
     + Interpreter
 * Courses
-    + **Udemy** - «Node JS & Deno.js, REST APIs with Node.js, GraphQL APIs, Authentication, MongoDB» (in progress)
-    + **Udemy** - «Full JavaScript and React. From zero to result» (in progress)
+    + **Udemy** - «Node JS & Deno.js, REST APIs with Node.js, GraphQL APIs, Authentication, MongoDB» ([certificate](https://www.udemy.com/certificate/UC-02a61cd3-ea5d-4c3e-8f42-befb0a496c9c/))
+    + **Udemy** - «Full JavaScript and React. From zero to result» ([certificate](https://www.udemy.com/certificate/UC-5c0cdf77-c39d-4615-ae94-df096abed888/))
     + **Udemy** - «Spring Boot 3, Spring 6 & Hibernate for Beginners» ([certificate](https://www.udemy.com/certificate/UC-febd21c2-d3ad-48b8-a482-ca1c42a83ed4/))
     + **Udemy** - «Professional Java Developer Career Starter: Java Foundations» ([certificate](https://www.udemy.com/certificate/UC-7353b25e-0912-4963-bc57-00a2d1171b3a/))
     + **RS Schools** - «React 2022Q3» ([certificate](https://app.rs.school/certificate/a7z5m6kl))
